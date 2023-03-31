@@ -1,7 +1,15 @@
 [package]
-name = "rename_css"
-version = "0.1.0"
+name = "renamecss"
+version = "1.0.0"
 edition = "2021"
+authors = ["RSD <me@rob1n.tech>"]
+license = "MIT"
+description = "A tool to rename css class names in directory and subdirectories"
+readme = "README.md"
+homepage = "https://github.com/RSDoo/renamecss"
+repository = "https://github.com/RSDoo/renamecss"
+keywords = ["cli", "rename"]
+categories = ["command-line-utilities"]
 
 # See more keys and their definitions at https://doc.rust-lang.org/cargo/reference/manifest.html
 

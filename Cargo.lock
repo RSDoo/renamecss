@@ -210,8 +210,8 @@ dependencies = [
 ]
 
 [[package]]
-name = "rename_css"
-version = "0.1.0"
+name = "renamecss"
+version = "1.0.0"
 dependencies = [
  "anyhow",
  "clap",
